@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles repo for EECS 398
+Portable Configuration Files
