@@ -6,3 +6,5 @@ set background=dark
 colorscheme solarized
 filetype plugin indent on
 set number
+set ignorecase
+set smartcase
